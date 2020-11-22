@@ -20,7 +20,7 @@ Przepis na **TOSTY**:
 5. _Jeden tost jest już gotowy do opiekania_
 6. Powtarzaj kroki 2-5 aż zrobisz odpowiednią ilość tostów
 7. Włóż tosty do opiekacza i ściśnij uchwyt
-8. Po około 2-3min pomaruj obie strony tosta cienką warstwą masła
+8. Po około 2-3min posmaruj obie strony tosta cienką warstwą masła
 9. Włóż tosty do opiekacza
 10. Po kolejnych 2min wyjmij tosty z opiekacza
 11. Powtarzaj kroki 7-10 dla wszystkich tostów
