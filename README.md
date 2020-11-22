@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Kuchnia Pawła
 
-You can use the [editor on GitHub](https://github.com/pawelmagnu/pawelmagnu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Przepis 1
+### Dzisiaj robimy **tosty**!
+Do zrobiena tostów potrzebujemy: 
+- chleb tostowy
+- ser (dowolny, ale ja używam white part skim mozz)
+- masło
+- dowolne dodatki(dziś robię tosty z pieczarkami i cebulą)
+- sól
+- pieprz
 
-### Markdown
+Tosty są dosyć prostym i popularnym daniem, ale mało osób wie jak prosto można je ulepszyć. Kluczowym składnikiem jest w tym przypadku masło dodawane w trakcie procesu pieczenia.
+Przepis na **TOSTY**:
+1. Pokrój dodatki na małe kawałki
+2. Posmaruj 1 kromę chleba masłem
+3. Na posmarowanej kromce połóż ser i dodatki
+4. Na dodatkach połóż kolejną kromkę
+5. _Jeden tost jest już gotowy do opiekania_
+6. Powtarzaj kroki 2-5 aż zrobisz odpowiednią ilość tostów
+7. Włóż tosty do opiekacza i ściśnij uchwyt
+8. Po około 2-3min pomaruj obie strony tosta cienką warstwą masła
+9. Włóż tosty do opiekacza
+10. Po kolejnych 2min wyjmij tosty z opiekacza
+11. Powtarzaj kroki 7-10 dla wszystkich tostów
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pawelmagnu/pawelmagnu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**SMACZNEGO**
