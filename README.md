@@ -29,6 +29,6 @@ Przepis na **TOSTY**:
 **SMACZNEGO**
 
 ## Przepis 2
-Siem, ostatnio skończyłem pisać w grupką ziomów projekt w **Pythonie**. Nazywa sie _**Project Labyrinth**_. Głównie to polega na tym, że można sobie wybrać jakim _algorytmem_ chcesz _wygenerować_ **labirynt** o zadanym rozmiarze. Używaliśmy **pygame** i **tkinter**. 
+Siem, ostatnio skończyłem pisać w grupką ziomków projekt w **Pythonie**. Nazywa sie _**Project Labyrinth**_. Głównie to polega na tym, że można sobie wybrać jakim _algorytmem_ chcesz _wygenerować_ **labirynt** o zadanym rozmiarze. Używaliśmy **pygame** i **tkinter**. 
 
 Po więcej możesz zerknąć do [dokumentacji](https://github.com/AGH-Narzedzia-Informatyczne/Project_Labyrinth/wiki/1.-LABIRYNTY).
